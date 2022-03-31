@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "kneeboard",
+    "name": "Kneeboard",
     "label": "Kneeboard Notepad for General Aviation Pilots",
     "storeUrl": "https://apps.apple.com/us/app/kneeboard-for-general-aviation/id1616539978",
     "ctaText": "Get the App",
-    "summary": "for general aviation pilots. on your cockpit.",
+    "summary": "clever notepad for general aviation pilots. on your cockpit.",
     "picture": "../src/images/AppIcon.png",
     "logo": "../src/images/AppIcon.png",
     "email": "stevenjselcuk@gmail.com",
